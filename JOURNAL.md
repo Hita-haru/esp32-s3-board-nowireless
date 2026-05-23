@@ -12,7 +12,7 @@ I’ve drawn up a schematic as well. At first, I was thinking of using WROOM, bu
 ![schematic](./screenshots/schematic1.png)
 **Total time spent: 4 hours**
 
-# 5/22: Set up git
+# 5/22: Set up git and added crystal oscillator and so on
 I set up GitHub.
 I also added a crystal oscillator and modified the USB connector.
 Unfortunately, there wasn’t much documentation available, so I ended up spending quite a bit of time searching for information.
@@ -20,3 +20,12 @@ Unfortunately, there wasn’t much documentation available, so I ended up spendi
 ![Github](./screenshots/github.png)
 ![Schematic](./screenshots/schematic2.png)
 **Total time spent: 5 hours**
+
+# 5/23: Added flash memory and PSRAM to the schematic
+I added flash memory and PSRAM to the circuit diagram.
+As usual, there was no detailed documentation, so I added them while referring to the Blueprint's guide.
+Other than that, I just added a connector for attaching a camera.
+It took me forever to find the documentation, so it was a real hassle.
+
+![Schematic](./screenshots/schematic3.png)
+**Total time spent: 4 hours**
