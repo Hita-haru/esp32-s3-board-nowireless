@@ -29,3 +29,9 @@ It took me forever to find the documentation, so it was a real hassle.
 
 ![Schematic](./screenshots/schematic3.png)
 **Total time spent: 4 hours**
+
+# 5/26: Added camera and power supply to the schematic
+Today, I added a camera to the circuit diagram, using the ESP32-S3-EYE circuit diagram as a reference. I think it will be quite difficult because there will likely be a lot of noise.
+
+![Schematic](./screenshots/schematic4.png)
+**Total time spent: 4 hours**
