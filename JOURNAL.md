@@ -35,3 +35,10 @@ Today, I added a camera to the circuit diagram, using the ESP32-S3-EYE circuit d
 
 ![Schematic](./screenshots/schematic4.png)
 **Total time spent: 4 hours**
+
+# 5/27: Finished writing schematic
+I finished drawing the circuit diagram today. Lately, I’ve been working on it for about an hour in the morning and three hours at night, but I got so absorbed in it that I ended up working on it for six hours.
+I have midterms coming up at school, but I haven’t studied at all—this is bad.
+
+![Schematic](./screenshots/schematic5.png)
+**Total time spent: 5 hours**
