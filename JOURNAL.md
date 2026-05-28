@@ -42,3 +42,10 @@ I have midterms coming up at school, but I haven’t studied at all—this is ba
 
 ![Schematic](./screenshots/schematic5.png)
 **Total time spent: 5 hours**
+
+# 5/28: Assigned the footprint.
+I finished drawing the circuit diagram today. Lately, I’ve been working on it for about an hour in the morning and three hours at night, but I got so absorbed in it that I ended up working on it for six hours.
+I have midterms coming up at school, but I haven’t studied at all—this is bad.
+
+![Schematic](./screenshots/schematic6.png)
+**Total time spent: 1 hours**
