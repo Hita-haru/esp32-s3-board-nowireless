@@ -49,3 +49,9 @@ I have midterms coming up at school, but I haven’t studied at all—this is ba
 
 ![Schematic](./screenshots/schematic6.png)
 **Total time spent: 1 hours**
+
+# 5/29: Routed for the first time
+This time, I worked on routing the PCB. It was a total mess, and it really made my head spin, but as I worked on it, it started to feel like I was solving a puzzle, and I got so absorbed in it that before I knew it, it was 11 p.m.
+
+![PCB](./screenshots/pcb1.png)
+**Total time spent: 7 hours**
