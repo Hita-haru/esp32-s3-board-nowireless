@@ -55,3 +55,11 @@ This time, I worked on routing the PCB. It was a total mess, and it really made 
 
 ![PCB](./screenshots/pcb1.png)
 **Total time spent: 7 hours**
+
+# 5/30: Finished routing PCB
+I couldn’t bring myself to study today, so I spent the whole day working on the PCB layout.
+I finished the PCB layout today, so it should be ready soon.
+I think noise is the biggest concern, and I’m really wondering if I can overcome that.
+
+![PCB](./screenshots/pcb2.png)
+**Total time spent: 11 hours**
