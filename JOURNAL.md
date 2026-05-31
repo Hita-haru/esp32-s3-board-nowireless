@@ -63,3 +63,12 @@ I think noise is the biggest concern, and I’m really wondering if I can overco
 
 ![PCB](./screenshots/pcb2.png)
 **Total time spent: 11 hours**
+
+# 5/31: Created quotes from JLCPCB and LCSC
+Today, I created a quote for JLCPCB. I’m also in the middle of creating a quote for LCSC.
+Since I’m entering everything manually based on the BOM, it’s quite time-consuming.
+Also, I’ll add a screenshot of the “Journal” feature—the previous one only showed the front side.
+
+![PCB](./screenshots/pcb3.png)
+![JLCPCB Estimate1](./screenshots/jlcpcb-ship.png)
+![JLCPCB Estimate2](./screenshots/jlcpcb-estimate.png)
