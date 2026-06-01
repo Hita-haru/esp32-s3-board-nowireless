@@ -70,5 +70,17 @@ Since I’m entering everything manually based on the BOM, it’s quite time-con
 Also, I’ll add a screenshot of the “Journal” feature—the previous one only showed the front side.
 
 ![PCB](./screenshots/pcb3.png)
-![JLCPCB Estimate1](./screenshots/jlcpcb-ship.png)
+![JLCPCB Estimate1](./screenshots/jlcpcb-shipping.png)
 ![JLCPCB Estimate2](./screenshots/jlcpcb-estimate.png)
+**Total time spent: 4 hours**
+
+# 6/1: Created quotes from LCSC and Aliexpress
+Today, I requested quotes from LCSC and AliExpress.
+Now that I’m ready to place the order, all I can do is hope it passes the review process.
+
+![LCSC Estimate1](./screenshots/lcsc-estimate.png)
+![LCSC Estimate2](./screenshots/lcsc-shipping-1.png)
+![LCSC Estimate3](./screenshots/lcsc-shipping-2.png)
+![Aliexpress Estimate1](./screenshots/aliexpress-1.png)
+![Aliexpress Estimate2](./screenshots/aliexpress-2.png)
+**Total time spent: 3 hours**
