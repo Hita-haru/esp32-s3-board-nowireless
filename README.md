@@ -9,6 +9,9 @@ This makes it difficult to popularize affordable AI cameras, which is why I deci
 ![Schematic](./screenshots/schematic6.png)
 ### PCB
 ![PCB](./screenshots/pcb3.png)
+### 3D
+![3D-1](./screenshots/3d-1.png)
+![3D-2](./screenshots/3d-2.png)
 ### Estimates
 - JLCPCB
 ![JLCPCB Estimate1](./screenshots/jlcpcb-estimate.png)
