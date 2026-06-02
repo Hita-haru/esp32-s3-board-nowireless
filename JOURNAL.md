@@ -84,3 +84,8 @@ Now that I’m ready to place the order, all I can do is hope it passes the revi
 ![Aliexpress Estimate1](./screenshots/aliexpress-1.png)
 ![Aliexpress Estimate2](./screenshots/aliexpress-2.png)
 **Total time spent: 3 hours**
+
+# 6/2: Fixed README.md and fabrication files
+Today, I fixed the issues pointed out in the review. I regenerated the build files and added a link to the BOM in README.md, so I think it should work now.
+![BOM Preview](./screenshots/bom.png)
+**Total time spent: 2 hours**
