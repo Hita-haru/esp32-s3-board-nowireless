@@ -113,3 +113,11 @@ I don't think I've finished revising JOURNAL.md and the rest just yet, so I plan
 ![Updated JOURNAL.md](./screenshots/journal.png)  
 ![Updated PCB](./screenshots/pcb5.png)  
 **Total time spent: 3 hours**
+
+# 6/6: Updated the README.md
+I updated the README.md today.  
+I went to school yesterday and was out all day, so I did it today.  
+I made sure it meets all the requirements, so I hope the review goes through.  
+
+![Updated README.md](./screenshots/readme.png)
+**Total time spent: 1 hours**

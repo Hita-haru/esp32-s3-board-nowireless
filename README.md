@@ -2,27 +2,30 @@
 ## Description
 This is a devboard built using just the ESP32-S3 chip.
 ## Reason for Creation
-Given the ESP32-S3’s AI capabilities and high performance, I wanted to create a program that connects a camera and analyzes its footage using AI. However, most inexpensive development boards lack technical compliance certification, and without it, powering them on in Japan would be illegal, forcing me to use a more expensive model.
-This makes it difficult to popularize affordable AI cameras, which is why I decided to build this.
+Given the ESP32-S3’s AI capabilities and high performance, I wanted to create a program that connects a camera and analyzes its footage using  
+AI. However, most inexpensive development boards lack technical compliance certification, and without it, powering them on in Japan would be illegal, forcing me to use a more expensive model.  
+This makes it difficult to popularize affordable AI cameras, which is why I decided to build this.  
 ## Pictures
 ### Schematic
-![Schematic](./screenshots/schematic6.png)
+![Schematic](./screenshots/schematic5.png)
 ### PCB
 ![PCB](./screenshots/pcb3.png)
 ### 3D
 ![3D-1](./screenshots/3d-1.png)
 ![3D-2](./screenshots/3d-2.png)
 ### Estimates
-- JLCPCB
-![JLCPCB Estimate1](./screenshots/jlcpcb-estimate.png)
-![JLCPCB Estimate2](./screenshots/jlcpcb-shipping.png)
-- LCSC
-![LCSC Estimate1](./screenshots/lcsc-estimate.png)
+- JLCPCB  
+![JLCPCB Estimate1](./screenshots/jlcpcb-estimate.png)  
+**Shipping options**  
+![JLCPCB Estimate2](./screenshots/jlcpcb-shipping.png)  
+- LCSC  
+![LCSC Estimate1](./screenshots/lcsc-estimate.png)  
+**Shipping options**  
 ![LCSC Estimate2](./screenshots/lcsc-shipping-1.png)
-![LCSC Estimate3](./screenshots/lcsc-shipping-2.png)
-- Aliexpress
-![Aliexpress Estimate1](./screenshots/aliexpress-1.png)
-![Aliexpress Estimate2](./screenshots/aliexpress-2.png)
+![LCSC Estimate3](./screenshots/lcsc-shipping-2.png)  
+- Aliexpress  
+![Aliexpress Estimate1](./screenshots/aliexpress-1.png)  
+![Aliexpress Estimate2](./screenshots/aliexpress-2.png)  
 
 ## BOM
 | No. | リファレンス (Designators)                               | 部品名 / 値 (Value)             | フットプリント (Footprint)                                  | 数量 |URL           |
