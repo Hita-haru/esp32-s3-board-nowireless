@@ -122,7 +122,7 @@ I made sure it meets all the requirements, so I hope the review goes through.
 ![Updated README.md](./screenshots/readme.png)
 **Total time spent: 1 hours**
 
-# 6/6: Updated the README.md
+# 6/6: Updated the README.md and added gerber.zip
 I've updated README.md again.  
 I've added information about costs to the BOM and the newly created section.  
 Also, I forgot to create the gerber.zip file, so I've created it now.  
