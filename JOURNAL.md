@@ -7,7 +7,7 @@ created_at: "2026-05-20"
 
 # 5/20: Created project and designed schematic
 I Created project and Kicad files.  
-I’ve drawn up a schematic as well. At first, I was thinking of using WROOM, but since the versions with Technical Conformity Mark are expensive, I’ve decided to just use the chip on its own.  
+I’ve drawn up a schematic as well. At first, I was thinking of using WROOM, but since the versions with Technical Conformity Mark are expensive, To reduce costs, we opted for the standalone chip instead of the ESP32-S3 WROOM module.  
 
 ![schematic](./screenshots/schematic1.png)  
 **Total time spent: 2 hours**
@@ -31,7 +31,7 @@ It took me forever to find the documentation, so it was a real hassle.
 **Total time spent: 2 hours**
 
 # 5/26: Added camera and power supply to the schematic
-Today, I added a camera to the circuit diagram, using the ESP32-S3-EYE circuit diagram as a reference.  
+Today, I added the camera module (24-pin FPC connector for the OV2640) and the power supply module for the 3.3V line (such as the AMS1117-3.3) to the circuit diagram, using the ESP32-S3-EYE circuit diagram as a reference.  
 I think it will be quite difficult because there will likely be a lot of noise.  
 
 ![Schematic](./screenshots/schematic4.png)  
@@ -46,9 +46,8 @@ I have midterms coming up at school, but I haven’t studied at all—this is ba
 **Total time spent: 2 hours**
 
 # 5/28: Assigned the footprint.
-I finished drawing the circuit diagram today.  
-Lately, I’ve been working on it for about an hour in the morning and three hours at night, but I got so absorbed in it that I ended up working on it for six hours.  
-I have midterms coming up at school, but I haven’t studied at all—this is bad.  
+This time, I assigned the footprints.
+I was assigning them by comparing them with various documents and the parts we plan to purchase, but it was difficult to determine which footprint some of the parts should be assigned to, so I ended up struggling more than I expected. 
 
 ![Schematic](./screenshots/schematic6.png)  
 **Total time spent: 0.5 hours**
