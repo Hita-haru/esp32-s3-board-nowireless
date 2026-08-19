@@ -5,6 +5,44 @@ This is a devboard built using just the ESP32-S3 chip.
 Given the ESP32-S3’s AI capabilities and high performance, I wanted to create a program that connects a camera and analyzes its footage using  
 AI. However, most inexpensive development boards lack technical compliance certification, and without it, powering them on in Japan would be illegal, forcing me to use a more expensive model.  
 This makes it difficult to popularize affordable AI cameras, which is why I decided to build this.  
+
+## How to assemble
+1. Manufacture or order the components and circuit board.
+2. Solder the components to the circuit board with all your might.
+3. Connect it to a computer using a Type-C cable and flash the firmware.
+4. After that, you’re free to use it however you like.
+
+## How to Flash Firmware to Custom ESP32-S3 via Arduino IDE
+1. Install Board Package
+Open Arduino IDE and go to Preferences.
+
+Add this URL to Additional Boards Manager URLs:
+
+[https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json](https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json)
+
+Open Tools > Board > Boards Manager, search for esp32, and install it.
+
+2. Select Board Settings
+Board: ESP32S3 Dev Module
+
+USB CDC On Boot: Enabled (Crucial if using direct ESP32-S3 USB pins IO19/IO20 for Serial output)
+
+Port: Select your board's COM port.
+
+3. Enter Download (Bootloader) Mode
+(If your custom board does not have an auto-reset circuit)
+
+Press and HOLD the BOOT button (GPIO0).
+
+Press and RELEASE the RESET (EN) button.
+
+RELEASE the BOOT button.
+
+4. Upload
+Click the Upload button in Arduino IDE.
+
+Once the upload is complete, press the RESET button once to run your code!
+
 ## Pictures
 ### Schematic
 ![Schematic](./screenshots/schematic5.png)
@@ -79,3 +117,10 @@ This makes it difficult to popularize affordable AI cameras, which is why I deci
 | 24 | J2 | OV2640 | Amphenol_F32Q-1A7x1-11024_1x24-1MP_P0.5mm_Horizontal | 1 | 2.1342 | https://www.lcsc.com/product-detail/C3168917.html?spm=wm.gwc.xh.21.cbm___wm.sy.ssl.gwc&lcsc_vid=QwBbVAVXQFcNVVcCQFkMUlFREQIMBFxQQ1YIUQIFR1MxVlNeR1JbUF1TQVhcVjtW |
 | 25 | D3 | ESD9B5.0ST5G | D_SOD-923 | 1 | 0.0457 | https://www.lcsc.com/product-detail/C82326.html?spm=wm.gwc.xh.17.cbm___wm.sy.ssl.gwc&lcsc_vid=QwBbVAVXQFcNVVcCQFkMUlFREQIMBFxQQ1YIUQIFR1MxVlNeR1JbUF1TQVhcVjtW |
 | 26 | - | PCB | - | 1 | 0.8 | https://cart.jlcpcb.com/jp/quote |
+
+## Credits & Acknowledgements
+This hardware design is based on / derived from the [ESP32-S3-EYE](https://github.com/espressif/esp-dev-kits) reference design created by **Espressif Systems**. Special thanks to Espressif for providing open-source hardware reference designs.
+
+## Trademarks
+- "ESP32", "ESP32-S3", and "Espressif" are registered trademarks or trademarks of **Espressif Systems (Shanghai) Co., Ltd.**
+- All other trademarks and logos are the property of their respective owners.
